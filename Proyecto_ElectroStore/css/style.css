@@ -3,8 +3,41 @@
 
 header{
 	background: #282828;
-	padding-top: 10px;
+	padding-top: 20px;
+	
 }
+
+.logo-brand{
+	min-width: 150px;
+	max-width: 150px;
+	
+	
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #dddddd;
+}
+
+.navbar-nav{
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+}
+
+.form-inline{
+	width: max-content;
+}
+
+.form-inline .form-control {
+    display: inline-block;
+    width: 600px;
+    vertical-align: middle;
+}
+/*
+.nav-link{
+	color: #DDDDDD;
+}
+*/
 
 /*-- Content --*/
 
