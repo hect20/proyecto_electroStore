@@ -3,41 +3,48 @@
 
 header{
 	background: #282828;
-	padding-top: 20px;
+	padding-top: 5px;
 	
 }
 
-.logo-brand{
+/*.logo-brand{
 	min-width: 150px;
 	max-width: 150px;
 	
 	
 }
-
+*/
 .navbar-light .navbar-nav .nav-link {
     color: #dddddd;
 }
 
-.navbar-nav{
-	position: absolute;
-	bottom: 0px;
-	right: 0px;
+/*
+.navbar-nav {
+    
+    display: contents;
+    
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
 }
+.form-inline {
+    
+    display: contents;
+    
+    flex-flow: row wrap;
+    
+	align-items: center;
+	width: none;
+}
+*/
 
-.form-inline{
-	width: max-content;
-}
-
-.form-inline .form-control {
-    display: inline-block;
-    width: 600px;
-    vertical-align: middle;
-}
 /*
 .nav-link{
 	color: #DDDDDD;
 }
 */
+
 
 /*-- Content --*/
 
