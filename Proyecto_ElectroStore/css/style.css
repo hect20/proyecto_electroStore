@@ -3,17 +3,24 @@
 
 header{
 	background: #282828;
-	padding-top: 5px;
-	
+    padding-top: 5px;
+    	
 }
 
-/*.logo-brand{
-	min-width: 150px;
-	max-width: 150px;
-	
-	
+
+
+/*
+.container{
+    height: 120px;
 }
 */
+/*
+.logo-brand{
+	height: 120px;
+	width: 120px;	
+}
+*/
+
 .navbar-light .navbar-nav .nav-link {
     color: #dddddd;
 }
