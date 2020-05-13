@@ -7,7 +7,17 @@ header{
     	
 }
 
+/*
+.icons-header{
+    margin-top: 12px;
 
+}
+*/
+.icons-header a{
+    color: #dddddd;
+    font-size: 24px;
+
+}
 
 /*
 .container{
