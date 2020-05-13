@@ -55,4 +55,41 @@ header{
 
 /*-- Content --*/
 
-/*-- Footer --*/
+footer{
+          position: fixed;
+          bottom: 0;
+          width: 100%;
+          background-color: #282828; 
+          
+        
+    }
+
+    footer .col-md-5{
+            color: #DDDDDD;
+            font -size: 2em;
+            position: absolute;
+            left: 35%;
+            right: 25%;
+            top: 0%; 
+    }
+     .col-md-1{
+        width: 65px;
+        height: 65px
+        left: 25%;
+        right: 10%;
+        top: 15%; 
+
+    }
+    footer .col-md-6{
+        color: #DDDDDD;
+        font -size: 2em;
+        position: absolute;
+        left: 90%;
+        right: 25%;
+        top: 0%; 
+
+    }
+    .col-md-6 img{
+        width: 45px;
+        height: 45px;
+    }
